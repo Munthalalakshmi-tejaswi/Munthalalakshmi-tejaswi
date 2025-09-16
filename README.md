@@ -3,7 +3,7 @@
 🌱 Currently learning **Full Stack Development** and **Data Structures & Algorithms (DSA)**<br>
 💞️ Looking to collaborate on **Full Stack Projects**<br>
 📫 Reach me at: 📧 mltejaswi1@gmail.com<br>
-😄 Pronouns: **she/her**<br>
+😄 Pronouns: **she/her/Tejaswi**<br>
 ⚡ Fun Fact: I enjoy **coding while listening to classical music**
 </small>
 ---
