@@ -17,9 +17,7 @@
 ---
 ### 📊 My GitHub Stats
 
-![Tejaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munthalalakshmi-tejaswi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munthalalakshmi-tejaswi&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Munthalalakshmi-tejaswi)
+![Tejaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munthalalakshmi-tejaswi&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&theme=radical)
 
 ---
 ⭐ If you like my projects, don’t forget to *star* the repositories!
