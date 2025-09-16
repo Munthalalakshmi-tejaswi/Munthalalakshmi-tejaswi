@@ -1,4 +1,3 @@
-## About Me
 <small>
 👀 Passionate about **Software Engineer**<br>
 🌱 Currently learning **Full Stack Development** and **Data Structures & Algorithms (DSA)**<br>
