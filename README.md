@@ -14,6 +14,12 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tejaswi_1904) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mltejaswi1) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tejaswi_19/)
+---
+### 📊 My GitHub Stats
+
+![Tejaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munthalalakshmi-tejaswi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munthalalakshmi-tejaswi&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Munthalalakshmi-tejaswi)
 
 ---
 ⭐ If you like my projects, don’t forget to *star* the repositories!
