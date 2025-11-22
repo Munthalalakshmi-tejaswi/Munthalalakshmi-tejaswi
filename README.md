@@ -1,21 +1,4 @@
-<small>
-👀 Passionate about **Software Engineer**<br>
-🌱 Currently learning **Full Stack Development** and **Data Structures & Algorithms (DSA)**<br>
-💞️ Looking to collaborate on **Full Stack Projects**<br>
-📫 Reach me at: 📧 mltejaswi1@gmail.com<br>
-⚡ Fun Fact: I enjoy **coding while listening to classical music**
-</small>
----
-<br>
+<small> 👀 Passionate about **Software Engineer**<br> 🌱 Currently learning **Full Stack Development** and **Data Structures & Algorithms (DSA)**<br> 💞️ Looking to collaborate on **Full Stack Projects**<br> 📫 Reach me at: **📧 mltejaswi1@gmail.com**<br> ⚡ Fun Fact: I enjoy **coding while listening to classical music** </small>
 ⭐ Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tejaswi-munthala-70a4192a6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Munthalalakshmi-tejaswi"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://68b9c997fd957f131cd65dd3--munthalalakshmitejaswi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/tejaswi_1904"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/mltejaswi1"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=flat-square&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/tejaswi_19/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white"/></a>
-</p>
----
-⭐ If you like my projects, don’t forget to *star* the repositories!
+<p align="center"> <a href="https://www.linkedin.com/in/tejaswi-munthala-70a4192a6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Munthalalakshmi-tejaswi"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://68b9c997fd957f131cd65dd3--munthalalakshmitejaswi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white"/></a> <a href="https://www.codechef.com/users/tejaswi_1904"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a> <a href="https://www.hackerrank.com/profile/mltejaswi1"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=flat-square&logo=hackerrank&logoColor=white"/></a> <a href="https://leetcode.com/u/tejaswi_19/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white"/></a> </p>
+⭐ If you like my projects, don’t forget to star the repositories!
