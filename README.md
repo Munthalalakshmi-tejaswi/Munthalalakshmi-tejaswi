@@ -7,7 +7,7 @@
 </small>
 ---
 <br>
-### ⭐ Connect with Me
+⭐ Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejaswi-munthala-70a4192a6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
