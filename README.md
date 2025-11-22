@@ -6,6 +6,7 @@
 ⚡ Fun Fact: I enjoy **coding while listening to classical music**
 </small>
 ---
+<br>
 ### ⭐ Connect with Me
 
 <p align="center">
